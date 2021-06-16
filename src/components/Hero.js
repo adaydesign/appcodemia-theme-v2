@@ -3,7 +3,7 @@ import { Heading } from "@chakra-ui/react"
 
 const Hero = () => {
     return (
-        <Flex direction="column" h="600px" align="center" pt="120px" mt="70px"
+        <Flex direction="column" h="90vh" align="center" pt="120px" mt="70px"
             bgImage="https://i.pinimg.com/originals/ca/7d/86/ca7d8627f7fe82ac0a1e006836088362.jpg"
             bgSize="cover"
             bgPosition="center"

@@ -9,7 +9,9 @@
 
 ![screen shot 1](https://github.com/adaydesign/appcodemia-theme-v2/blob/main/screenshot/ss1.png?raw=true)
 
-![screen shot 2](https://github.com/adaydesign/appcodemia-theme-v2/blob/main/screenshot/ss5.png?raw=true)
+![screen shot 2](https://github.com/adaydesign/appcodemia-theme-v2/blob/main/screenshot/ss2.png?raw=true)
+
+![screen shot 3](https://github.com/adaydesign/appcodemia-theme-v2/blob/main/screenshot/ss3.png?raw=true)
 
 # View Demo
 

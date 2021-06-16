@@ -2,8 +2,11 @@ import { Flex, Stack, Heading, Button, Spacer, Icon, IconButton, useBoolean, Div
 import { AiOutlineRobot, AiOutlineHome, AiOutlineMenu, AiOutlineClose } from "react-icons/ai"
 import { HashLink } from 'react-router-hash-link'
 
+
 const Menu = ({ direction, closeMenu }) => {
     const btnWidth = useBreakpointValue({ sm: "full", md: "inherite" })
+
+
     return (
         <Stack direction={direction || "row"} spacing={3}>
             <HashLink smooth to={'/#top'} >
