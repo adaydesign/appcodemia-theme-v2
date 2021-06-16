@@ -1,0 +1,52 @@
+[
+    {
+        "type": "frontend",
+        "name": "node js",
+        "image": "https://icons-for-free.com/iconfiles/png/512/js+library+long+shadow+nodejs+web+icon-1320184850167478047.png",
+        "exp": 50
+    },
+    {
+        "type": "frontend",
+        "name": "react",
+        "image": "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+        "exp": 30
+    },
+    {
+        "type": "frontend",
+        "name": "jquery",
+        "image": "https://icons-for-free.com/iconfiles/png/512/front+end+javascript+jquery+js+library+long+shadow+web+web-1320184848288229667.png",
+        "exp": 15
+    },
+    {
+        "type": "frontend",
+        "name": "vue",
+        "image": "https://cdn.iconscout.com/icon/free/png-512/vuejs-1175052.png",
+        "exp": 5
+    },
+    {
+        "type": "backend",
+        "name": "golang",
+        "image": "https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png",
+        "exp": 80
+    },
+    {
+        "type": "backend",
+        "name": "node js",
+        "image": "https://icons-for-free.com/iconfiles/png/512/js+library+long+shadow+nodejs+web+icon-1320184850167478047.png",
+        "exp": 20
+    },
+    {
+        "type": "backend",
+        "name": "MySQL",
+        "image": "https://www.xaecia.com/images/icons/mysql.svg",
+        "exp": 90,
+        "highligh": true
+    },
+    {
+        "type": "backend",
+        "name": "Oracle",
+        "image": "https://icon-library.com/images/oracle-icon/oracle-icon-22.jpg",
+        "exp": 10,
+        "highligh": true
+    }
+]

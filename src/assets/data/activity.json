@@ -1,0 +1,17 @@
+[
+    {
+        "name": "In-house Training",
+        "image": "http://www.creativitycenter.co.th/userfiles/qa/images/img_m-20150428105328.jpg",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ornare vehicula mi. Maecenas eleifend pellentesque diam, faucibus vehicula augue hendrerit non. "
+    },
+    {
+        "name": "Online Courses",
+        "image": "https://home.maefahluang.org/images/content/original-1559033304367.jpg",
+        "detail": "Etiam vulputate tristique semper. Ut scelerisque justo vitae neque accumsan iaculis. Vestibulum ac ipsum ut arcu ornare eleifend suscipit ac metus."
+    },
+    {
+        "name": "Application Development",
+        "image": "https://www.godrejinfotech.com/assets/images/products/surroundTechnology/mobileApps/mobileApps-bannerTab.png",
+        "detail": "Phasellus viverra, felis et tempus porta, lectus ligula lobortis ex, vel aliquet justo erat ut lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+    }
+]
